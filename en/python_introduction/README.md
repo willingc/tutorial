@@ -237,7 +237,7 @@ To delete something from your list you will need to use __indexes__ as we learnt
 
 That worked like a charm!
 
-For extra fun, try some other indexes: 6, 7, 1000, -1, -6 or -1000. See if you can predict the result before trying the command. Do the results make sense?
+For extra fun, try some other numbers as the index: 6, 7, 1000, -1, -6 or -1000. See if you can predict the result before trying the command. The negative numbers give interesting results. Do the results make sense? 
 
 You can find a list of all available list methods in this chapter of the Python documentation: https://docs.python.org/3/tutorial/datastructures.html
 
